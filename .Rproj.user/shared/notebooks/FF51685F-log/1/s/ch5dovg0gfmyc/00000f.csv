@@ -1,0 +1,27 @@
+"0","library(usethis)"
+"0","use_r(""fit_logit_model"")"
+"2","[32m✔[39m Setting active project to [34m""C:/Users/saraa/OneDrive/سطح المكتب/log/logreg""[39m.
+"
+"2","[31m☐[39m Modify ]8;;file://C:/Users/saraa/OneDrive/سطح المكتب/log/logreg/R/fit_logit_model.R[34mR/fit_logit_model.R[39m]8;;.
+"
+"0","use_r(""calculate_odds"")"
+"2","[31m☐[39m Modify ]8;;file://C:/Users/saraa/OneDrive/سطح المكتب/log/logreg/R/calculate_odds.R[34mR/calculate_odds.R[39m]8;;.
+"
+"0","use_r(""compute_likelihood"")"
+"2","[31m☐[39m Modify ]8;;file://C:/Users/saraa/OneDrive/سطح المكتب/log/logreg/R/compute_likelihood.R[34mR/compute_likelihood.R[39m]8;;.
+"
+"0","use_r(""evaluate_preformance_metrics"")"
+"2","[31m☐[39m Modify ]8;;file://C:/Users/saraa/OneDrive/سطح المكتب/log/logreg/R/evaluate_preformance_metrics.R[34mR/evaluate_preformance_metrics.R[39m]8;;.
+"
+"0","use_test(""fit_logit_model"")"
+"2","[31m☐[39m Modify ]8;;file://C:/Users/saraa/OneDrive/سطح المكتب/log/logreg/tests/testthat/test-fit_logit_model.R[34mtests/testthat/test-fit_logit_model.R[39m]8;;.
+"
+"0","use_test(""calculate_odds"")"
+"2","[31m☐[39m Modify ]8;;file://C:/Users/saraa/OneDrive/سطح المكتب/log/logreg/tests/testthat/test-calculate_odds.R[34mtests/testthat/test-calculate_odds.R[39m]8;;.
+"
+"0","use_test(""compute_likelihood"")"
+"2","[31m☐[39m Modify ]8;;file://C:/Users/saraa/OneDrive/سطح المكتب/log/logreg/tests/testthat/test-compute_likelihood.R[34mtests/testthat/test-compute_likelihood.R[39m]8;;.
+"
+"0","use_test(""evaluate_preformance_metrics"")"
+"2","[31m☐[39m Modify ]8;;file://C:/Users/saraa/OneDrive/سطح المكتب/log/logreg/tests/testthat/test-evaluate_preformance_metrics.R[34mtests/testthat/test-evaluate_preformance_metrics.R[39m]8;;.
+"
