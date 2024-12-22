@@ -18,11 +18,14 @@ use_test("evaluate_preformance_metrics")
 library(roxygen2)
 roxygenize()
 ```
+
 ```{r}
 file.remove("NAMESPACE")
 library(devtools)
 devtools::document()
 ```
+
+
 ```{r}
 # Run all tests in the package
 if (!requireNamespace("testthat", quietly = TRUE)) {
@@ -30,9 +33,11 @@ if (!requireNamespace("testthat", quietly = TRUE)) {
 }
 devtools::test()
 ```
+
 ```{r}
 devtools::check()
 ```
+
 ```{r}
 devtools::build()
 
