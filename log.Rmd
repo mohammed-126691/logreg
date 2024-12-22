@@ -41,5 +41,24 @@ devtools::check()
 ```{r}
 devtools::build()
 
+
+
+```
+
+
+
+```{r}
+devtools::check()
+
+```
+```{r}
+devtools::install_github("mohammed-126691/Logreg")
+
+```
+
+```{r}
+install.packages("devtools")
+devtools::install_github("mohammed-126691/Log")
+
 ```
 
